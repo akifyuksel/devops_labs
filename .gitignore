@@ -64,7 +64,4 @@ target/
 .ipynb_checkpoints
 
 #ide
-*.idea
-.idea/*
-.idea\*
-.idea/
+.idea
