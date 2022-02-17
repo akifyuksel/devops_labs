@@ -65,3 +65,6 @@ target/
 
 #ide
 .idea
+.idea/python-flask-server-generated.iml
+.idea/misc.xml
+venv2
