@@ -11,8 +11,8 @@ info:
 servers:
 - url: https://virtserver.swaggerhub.com/akifyuksel/tutorial/1.0.0
   description: SwaggerHub API Auto Mocking
-#- url: https://virtserver.swaggerhub.com/tutorial/1.0.0
-#  description: SwaggerHub API Auto Mocking
+- url: https://virtserver.swaggerhub.com/tutorial/1.0.0
+  description: SwaggerHub API Auto Mocking
 paths:
   /student/{student_id}:
     get:
